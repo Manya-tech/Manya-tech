@@ -17,37 +17,23 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
+name = "Manya Gupta"
+located_in = "Delhi, India"
+current_position = "Student"
+collge = "Bharati Vidyapeeth's College Of Engineering, Delhi" 
+education = "B.tech CSE
 
 fields_of_interests:
   [
-    "Web Development",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Software Development"
+     "Content Creation"
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["ML,DL"]
+2022 Goals: ["Gain good knowledge in the field of ML and DL."]
+hobbies: ["Reading", "Art", "Music", "Gardening"]
 ```
   
 --- 
