@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&fontColor=000000&text=Hello!👩‍💻&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&fontColor=000000&text=Hello!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
