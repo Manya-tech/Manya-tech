@@ -67,6 +67,6 @@ hobbies: ["Reading", "Gardening"]
 ---
 
   
-<p align="left">
+<p align="center" style="max-width=100%;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
