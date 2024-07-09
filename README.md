@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd6ZjJpY2JrYTF0Mm9mNmdsczR1dmkwbWZ3cWt3Zng0MG9peDFqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" height="200"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&fontColor=000000&text=Hello!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
+  Check out my <a href=https://manya-465x.onrender.com/>portfolio</a>!<br>
   Let's Connect and have a Chat!💬
 </h1>
 
@@ -32,12 +33,12 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
     "Software Development"
-     "Content Creation"
+    "Web Developemnt"
+    "Content Creation"
   ]
-  
-currently_learning: ["ML,DL"]
-2022 Goals: ["Gain good knowledge in the field of ML and DL."]
-hobbies: ["Reading", "Art", "Music", "Gardening"]
+
+2024 Goals: ["Live a better life."]
+hobbies: ["Reading", "Gardening"]
 ```
   
 --- 
@@ -50,6 +51,11 @@ hobbies: ["Reading", "Art", "Music", "Gardening"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="git" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="git" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="git" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="git" width="45" height="45"/>
 </p>
 
 ---
